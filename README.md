@@ -1,6 +1,5 @@
 1. Executive Summary:
-This project aims to leverage historical agricultural data from India to predict crop yields using
-machine learning techniques and visualize the results through interactive dashboards in
+This project aims to leverage historical agricultural data from India to predict crop yields using and visualize the results through interactive dashboards in
 PowerBI. By analyzing data spanning from 1997 to 2020, the project seeks to provide valuable
 insights into agricultural trends, supporting better decision-making for farmers, policymakers,
 and researchers.
